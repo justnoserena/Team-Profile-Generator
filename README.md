@@ -34,7 +34,6 @@
   THEN I exit the application, and the HTML is generated
   ## Credits
   ---
-  <!-- [undefined] -->
   ## Questions
   ---
   Github Username: Justnoserena
